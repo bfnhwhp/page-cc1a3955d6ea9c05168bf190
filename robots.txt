@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ore-minerals.cn/sitemap.xml
